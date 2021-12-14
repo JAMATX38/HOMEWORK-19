@@ -44,6 +44,11 @@ lite-server
 mongoose
 morgan
 
+**<span style="text-decoration:underline;">Known Issues</span>**
+
+I was able to get it to deploy on Heroku BUT i cannot get the service worker to work offline. I am getting a 404 error message for a post route but when I check that post route all is ok with it. I cannot figue it out- I am turning in what I have because my deadline for having all my homeworks in is tonight. If i do not get my homeworks in and at least a letter grade I will not pass this course. I dont have a single absence and just really want to get my certificate. Please let me know if you have any questions. Thank you
+
+
 **<span style="text-decoration:underline;">GitHub </span>**
 
 **JAMATX38**
